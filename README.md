@@ -134,7 +134,7 @@ TensorFlow / PyTorch
 SciPy
 ▶️ How to Run
 1. Clone repository
-git clone https://github.com/your-username/harmonic-distortion-ml.git
+git clone https://github.com/your-username/Machine-Learning-Based-Harmonic-Distortion-Detection-and-Classification.git
 cd harmonic-distortion-ml
 2. Install dependencies
 pip install -r requirements.txt
